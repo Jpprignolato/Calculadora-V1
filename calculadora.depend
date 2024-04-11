@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712808027 source:c:\users\josep\documents\projetos\calculadorac\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
